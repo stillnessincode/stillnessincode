@@ -1,65 +1,69 @@
-# Hey 👋 I'm Jonny (StillnessinCode)
+# Hey 👋 I'm Jonny
 
 ### 💻 Front-End Developer (in progress)
 
-Musician turned developer, currently focused on building clean, functional, and user-friendly web applications.
-
-I'm actively developing my skills through hands-on projects, with a strong focus on **JavaScript, React, and modern front-end practices**.
+Musician turned developer, focused on building clean, functional, and user-friendly web applications.
 
 ---
 
-## 🚀 What I'm working on
-- 🍳 **ReciPrep** – a recipe finder & tracker app  
-- 🎬 Expanding a **Film Finder** app with API integrations (TMDB + streaming data)  
-- ⚛️ Learning and building with **React** and exploring **Redux for state management**  
-- 🎮 Small projects (like Rock Paper Scissors) to strengthen core fundamentals  
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-222?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🧠 Current focus
-- Writing clean, readable JavaScript  
-- DOM manipulation & app logic  
-- Working with APIs and async data  
-- Component-based architecture with React  
-- Understanding state management (Redux basics)  
+## 🚀 Projects
+
+### 🍳 ReciPrep *(in progress)*
+Recipe finder & tracker app focused on usability and clean UI.
+
+### 🎬 Film Finder *(expanding)*
+API-based movie discovery app with plans to include streaming availability.
+
+### 🎮 Rock Paper Scissors
+DOM-based interactive game with animations and score tracking.
 
 ---
 
-## 🛠️ Tech stack
-- HTML  
-- CSS  
-- JavaScript (ES6+)  
-- React (learning & building)  
-- Redux (intro level)  
-- Git & GitHub
+## 🧠 Current Focus
+- JavaScript (ES6+, async/await)
+- API integration
+- React fundamentals & component architecture
+- State management with Redux
+- Writing clean, maintainable code
 
 ---
 
-## 🎯 Career goals
-- Transition into a **Front-End Developer role**  
-- Contribute to real-world projects and teams  
-- Continue building a strong, practical portfolio  
-- Keep improving both technical and problem-solving skills  
+## 🎯 Goals
+- Transition into a **Front-End Developer role**
+- Build and deploy polished, real-world projects
+- Continue improving both technical and problem-solving skills
 
 ---
 
-## 🎨 Outside of coding
-- 🎧 Music production & audio engineering (Bachelor’s degree)  
-- 🃏 Magic: The Gathering (deck building & collecting)  
-- 📚 Reading
+## 🎨 Outside of Coding
+- 🎧 Music production & audio engineering  
+- 🃏 Magic: The Gathering  
+- 📚 Reading books that could do serious damage if dropped.
 
 ---
 
-## 📌 Approach
-> Learn by building. Improve by iterating.
+## 📌 Philosophy
+> Build things. Break things. Learn from both.
 
 ---
 
-## 📫 Let’s connect
+## 📫 Connect
 - GitHub: you're already here 😄  
-- (Portfolio / LinkedIn coming soon)
+- Portfolio: coming soon
 - Instagram: [https://www.instagram.com/stillnessincode](https://www.instagram.com/stillnessincode)
 
 ---
 
-⭐ *Early in my development journey, but consistent, curious, and committed to growth.*
+⭐ *Early in my dev journey, but consistent, curious, and committed to growth.*
