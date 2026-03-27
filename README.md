@@ -50,7 +50,7 @@ DOM-based interactive game with animations and score tracking.
 ## 🎨 Outside of Coding
 - 🎧 Music production & audio engineering  
 - 🃏 Magic: The Gathering  
-- 📚 Reading books that could do serious damage if dropped.
+- 📚 Enjoying epic fantasy novels — usually the long ones
 
 ---
 
