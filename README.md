@@ -37,10 +37,9 @@ I'm actively developing my skills through hands-on projects, with a strong focus
 
 ## 📊 GitHub stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stillnessincode&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stillnessincode&show_icons=true&theme=dark)
 ![GitHub Streak](https://streak-stats.demolab.com?user=stillnessincode&theme=dark)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stillnessincode&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stillnessincode&layout=compact&theme=dark)
 ---
 
 ## 🎯 Career goals
