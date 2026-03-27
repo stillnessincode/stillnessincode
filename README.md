@@ -35,13 +35,6 @@ I'm actively developing my skills through hands-on projects, with a strong focus
 
 ---
 
-## 📊 GitHub stats
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=stillnessincode&show_icons=true&theme=dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=stillnessincode&theme=dark)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=stillnessincode&layout=compact&theme=dark)
----
-
 ## 🎯 Career goals
 - Transition into a **Front-End Developer role**  
 - Contribute to real-world projects and teams  
@@ -53,7 +46,7 @@ I'm actively developing my skills through hands-on projects, with a strong focus
 ## 🎨 Outside of coding
 - 🎧 Music production & audio engineering (Bachelor’s degree)  
 - 🃏 Magic: The Gathering (deck building & collecting)  
-- 📚 Fantasy reading (Cosmere, The Witcher, etc.)  
+- 📚 Reading
 
 ---
 
